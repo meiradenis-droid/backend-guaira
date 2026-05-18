@@ -8,3 +8,5 @@ let cuble = "Real Madrid"
 //console.log(numeroCamisa)
 console.log(`O jogador ${nomejogador}, joga como ${posicao}`);
 console.log(`O jogador ${nomejogador}, tem ${idade} anos`);
+console.log(`o jogador ${nomejogador}, joga no ${cuble}`)
+
